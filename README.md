@@ -1,5 +1,6 @@
 ##### Table of Contents  
 [What is Instant Messenger](#what-is-instant-messenger) 
+
 [How it works?](#how-it-works) 
 
 ...snip...    
