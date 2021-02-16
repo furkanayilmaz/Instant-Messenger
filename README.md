@@ -4,7 +4,7 @@
 [How it works?](#how-it-works) 
 
 
-[Improvements & Fixes ](#how-it-works) 
+[Improvements & Fixes ](#improvements-&fixes) 
 
 ...snip...    
 <a name="What is Instant Messenger"/>
