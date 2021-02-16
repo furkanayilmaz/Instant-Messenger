@@ -5,8 +5,7 @@
 
 
 [Improvements & Fixes ](#improvements--fixes) 
-
-...snip...    
+   
 <a name="What is Instant Messenger"/>
 ## What is Instant Messenger
 It is a simple Chatting application for those who is looking for a secure chat. 
