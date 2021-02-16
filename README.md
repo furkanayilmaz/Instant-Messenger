@@ -1,6 +1,6 @@
 ##### Table of Contents  
 [What is Instant Messenger](#what-is-instant-messenger) 
-[How it works?](#what-is-instant-messenger) 
+[How it works?](#how-it-works) 
 
 ...snip...    
 <a name="What is Instant Messenger"/>
