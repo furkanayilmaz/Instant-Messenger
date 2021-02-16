@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://stackoverflow.com/users/12639568/furkanayilmaz)
