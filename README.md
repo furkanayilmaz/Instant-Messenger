@@ -1,6 +1,6 @@
 ##### Table of Contents  
-[Headers](#What Is Instant Messenger)  
+[Headers](#headers)  
 [Emphasis](#emphasis)  
 ...snip...    
-<a name="headers"/>
+<a name="What is Instant Messenger"/>
 ## Headers
