@@ -23,8 +23,17 @@ When entering the IP address make sure you enter it in thos format.
 
 If you are expecting someone to connect to you then you don't need to run the client side.
 
+To order to close the connection or leave you will need to type 
+
+For Client Connection: SERVER - END
+For People Who is Connected: CLIENT - END
+
 
 ## Improvements & Fixes 
 
 The new version would be always up to date here and you can find it here. 
 Any improvements will be listed below here with included with descriptions
+
+
+
+##### Fixed ending chat 
