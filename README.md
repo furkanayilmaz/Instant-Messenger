@@ -15,7 +15,7 @@ To connect to someone you will need to run the client side of this code.
 You can find that here (https://github.com/furkanayilmaz/Instant-Messenger-Client)
 
 When connecting you will need IP address. Enter the IP address to the client side (ClientRunner.java).
-When entering the IP address make sure you enter it in thos format.
+When entering the IP address make sure you enter it in this format.
 ("xx.xxx.x.x")
 
 If you are expecting someone to connect to you then you don't need to run the client side.
